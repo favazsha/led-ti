@@ -1,4 +1,4 @@
-# led-ti
+# led-timer
 have fun
 
 | Item | Purpose | Price (INR) | Link |
